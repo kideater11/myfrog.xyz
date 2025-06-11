@@ -1,2 +1,2 @@
 # myfrog.xyz
-no
+my freaky website
